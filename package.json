@@ -11,9 +11,14 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@benjeau/react-native-draw": "^0.8.3",
+    "@benjeau/react-native-draw-extras": "^0.2.2",
+    "@react-native-community/slider": "^4.3.2",
     "react": "18.1.0",
     "react-native": "0.70.1",
-    "react-native-config": "^1.4.11"
+    "react-native-config": "^1.4.11",
+    "react-native-gesture-handler": "^2.7.1",
+    "react-native-svg": "^13.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
