@@ -19,8 +19,10 @@ import {
   View,
 } from "react-native";
 import DrawScreen from "./src/screens/Draw";
+import SvgDraw from "./src/screens/SvgDraw";
 
-const App = () => <DrawScreen />;
+// const App = () => <DrawScreen />;
+const App = () => <SvgDraw />;
 
 const styles = StyleSheet.create({
   sectionContainer: {

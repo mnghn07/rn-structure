@@ -11,14 +11,17 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@archireport/react-native-svg-draw": "^1.2.0",
     "@benjeau/react-native-draw": "^0.8.3",
     "@benjeau/react-native-draw-extras": "^0.2.2",
     "@react-native-community/slider": "^4.3.2",
     "react": "18.1.0",
     "react-native": "0.70.1",
-    "react-native-config": "^1.4.11",
-    "react-native-gesture-handler": "^2.7.1",
-    "react-native-svg": "^13.4.0"
+    "react-native-gesture-handler": "^2.8.0",
+    "react-native-linear-gradient": "^2.6.2",
+    "react-native-reanimated": "^2.12.0",
+    "react-native-svg": "^13.5.0",
+    "react-native-view-shot": "^3.5.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
